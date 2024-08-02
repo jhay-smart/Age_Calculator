@@ -1,0 +1,67 @@
+.main{
+    background-color: blue;
+    margin: auto;
+    width: 500px;
+    height: 400px;
+    padding-top: 20px;
+    margin-top: 30px;
+
+
+}
+
+.sub-main{
+    background-color: rgb(214, 208, 208);
+    border-radius: 5px;
+    width: 90%;
+    height: 80%;
+    margin: auto
+    
+
+}
+.header{
+    background-color: rgb(245, 242, 242);
+}
+.title{
+    text-align: center;
+}
+hr{
+    border: 1px solid gray;
+}
+
+
+ 
+
+.section-container{
+    display: flex;
+   padding: 30px;
+    
+}
+
+.section-container div{
+    padding: 10px;
+}
+label{
+    font-weight: bold;
+    color: blue;
+}
+input{
+    width: 100px;
+    height: 30px;
+
+}
+.btn{
+    text-align: center;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    border: none;
+    color: white;
+}
+
+.age{
+    font-size: medium;
+    text-align: center;
+}
