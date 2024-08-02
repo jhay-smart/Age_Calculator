@@ -10,7 +10,7 @@ function AgeCalculator() {
   const calculateAge = (e) => {
     e.preventDefault();
     if (day === 0 || month === 0 || year === 0) {
-      alert("Please enter your birthdate");
+      alert("Please enter your birth date");
     } else {
       const calculatedAge = calculateAgeBasedOnInput(day, month, year);
 
